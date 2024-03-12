@@ -1,0 +1,39 @@
+img {
+  width: 150px;
+  height: 150px;
+}
+
+body{
+  background-color: #FFDDEF;
+}
+
+h1{
+  font-family: Cutive Mono;
+  text-align: center;
+}
+
+h3{
+  font-family:cutive mono;
+  font-size: 1.5em;
+  background-color: #FFFFFF;
+}
+h5{
+  font-family:DM sans;
+  font-size: 1em;
+}
+
+h2{
+  font-family: Cutive Mono;
+background-color: #FFFFFF;
+}
+P{
+  font-family:DM sans;
+  font-size: 1em;
+}
+
+img{
+  border:5px dashed #ffffff;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
